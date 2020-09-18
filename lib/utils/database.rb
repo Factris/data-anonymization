@@ -1,6 +1,7 @@
 require 'active_record'
 require 'composite_primary_keys'
 require 'logger'
+require 'activerecord-import'
 
 module DataAnon
   module Utils
